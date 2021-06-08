@@ -8,6 +8,7 @@ This site presents the dateset used in the paper "Calibration of an Elastic Huma
 
 The data contains 500 measurements of the humanoid robot Agile Justin. Each data point consists of the commanded joint configuration and the corresponding positions of the left and the right end-effector. 
 The measurements were acquired using an external camera system from Vicon, consisting of six 16Mpx cameras mounted on the ceiling, which tracked the two retro-reflective markers on the robot’s hands. 
+![calibration sketch](./assets/imgs/calibration_sketch.png)
 
 ---
 
@@ -35,3 +36,7 @@ All three frames need to be included to close the measurement loop and calibrate
 The nominal kinematic of Agile Justin is given by the DH-parameters: 
 
 ![nominal_dh](./assets/imgs/nominal_dh.png)	(lenghts in meters, angles in degrees)
+
+
+The masses were adopted from CAD files of the robot.
+![mass model](./assets/imgs/strich_justin.png)
