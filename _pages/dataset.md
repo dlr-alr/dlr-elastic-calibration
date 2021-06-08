@@ -4,6 +4,4 @@ layout: page
 title: Dataset
 ---
 
-Here comes a link to download the csv dataset.
-
-Test 2
+[Click here](/dataset/measurements.csv) to download the dataset.
