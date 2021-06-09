@@ -4,7 +4,7 @@ layout: page
 title: Dataset
 ---
 
-<a download="measurements.csv" href="../dataset">Click here</a> to download the dataset.
+<a href="../dataset/measurements" download>Click here</a> to download the dataset.
 
 ____
 
