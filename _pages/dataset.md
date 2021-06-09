@@ -3,9 +3,7 @@ permalink: /dataset
 layout: page
 title: Dataset
 ---
-
-<a href="../dataset/measurements.csv" download="measurements.csv">Click here</a> to download the dataset.
-[download this](../dataset/measurements.csv.zip)
+[Click here](../dataset/measurements.csv.zip) to download the dataset.
 ____
 
 The dataset contains $N=500$ measurements of the humanoid robot Agile Justin. Each data point consists of the commanded joint configuration $q$ and the corresponding positions of the left and the right end-effector $y$. 
