@@ -4,7 +4,14 @@ layout: page
 title: Results
 ---
 
-Here come some figures from the paper + the table of the calibrated parameters
+This section gives an overview about our calibration results.
 
 
-Test 3
+
+---
+
+
+
+![Error Histogram](../assets/imgs/error_hist.png)
+
+The three histograms show the residual error for different calibrations.
