@@ -6,6 +6,7 @@ description: " "
 author: "Johannes Tenhumberg"
 
 header_pages:
+  - _pages/robot.md
   - _pages/description.md
   - _pages/results.md
   - _pages/dataset.md
