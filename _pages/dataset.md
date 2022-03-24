@@ -9,7 +9,7 @@ ____
 The dataset contains $N=500$ measurements of the humanoid robot Agile Justin. Each data point consists of the commanded joint configuration $q$ and the corresponding positions of the left and the right end-effector $y$. 
 The measurements were acquired using an external camera system from Vicon, consisting of six 16Mpx cameras mounted on the ceiling, which tracked the two retro-reflective markers on the robot’s hands. 
 
-The sketch demonstrates the measurement setup and highlights some problems
+The sketch demonstrates the measurement setup and highlights some problems that can occur when collecting the data.
 
 ![calibration sketch](../assets/imgs/calibration_sketch.png)
 

@@ -1,12 +1,12 @@
-
 theme: minima
+markdown: kramdown
 
 title: Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning
-description: " "
-author: "Johannes Tenhumberg"
+author: johannes.tenhumberg@dlr.de
 
 header_pages:
   - _pages/robot.md
+  - _pages/methods.md
   - _pages/results.md
   - _pages/dataset.md
 
