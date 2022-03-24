@@ -6,7 +6,7 @@ title:
 This site accompanies the paper [Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning ](https://ieeexplore.ieee.org/abstract/document/9555793) by
 [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ&hl=en) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
 
-![mass model](../assets/imgs/strich_justin.jpg){:.this 
+![mass model](/assets/imgs/strich_justin.jpg){:.this 
 style="width: 500px; 
 display: block;
 margin-left: auto;
