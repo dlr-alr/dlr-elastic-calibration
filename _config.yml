@@ -1,7 +1,9 @@
 theme: minima
 markdown: kramdown
 
-title: Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning
+title: |-
+    Calibration of an Elastic Humanoid Upper Body
+    and Efficient Compensation for Motion Planning
 
 author: johannes.tenhumberg@dlr.de
 
